@@ -6,7 +6,7 @@
     density="420dpi"
     format="10"
     plugin-version="3.0.1"
-    timestamp="1542122976685"
+    timestamp="1542123346389"
     token="8610131534437656011"
     verifier="COLD_SWAP_REQUESTED" >
 
@@ -66,7 +66,7 @@
     </build>
     <build
         build-mode="COLD"
-        timestamp="1542122976685"
+        timestamp="1542123346389"
         verifier="COLD_SWAP_REQUESTED" />
 
 </instant-run>
